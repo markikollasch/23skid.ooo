@@ -1,8 +1,8 @@
-name: 23skid.ooo
+name: landing-page
 static_sites:
 - environment_slug: html
   github:
     branch: main
     deploy_on_push: true
     repo: markikollasch/23skid.ooo
-  name: 23skid.ooo
+  name: landing-page
