@@ -1,8 +1,8 @@
-name: sample-html
+name: 23skid.ooo
 static_sites:
 - environment_slug: html
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-html
-  name: sample-html
+    repo: markikollasch/23skid.ooo
+  name: 23skid.ooo
